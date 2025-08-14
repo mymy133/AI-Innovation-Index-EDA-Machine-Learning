@@ -1,6 +1,7 @@
 # AI-Innovation-Index-EDA-Machine-Learning
 
 This project analyzes a dataset of 62 countries with metrics such as:
+**Source:** [Kaggle – Salary Dataset]([https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025](https://www.kaggle.com/datasets/katerynameleshenko/ai-index/data))  
 
 # 📌 Overview
 This project analyzes a dataset of 62 countries with metrics such as:
